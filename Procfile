@@ -1,1 +1,1 @@
-web: gunicorn app_SQL_dados:app
+gunicorn api_SQL_dados:app
